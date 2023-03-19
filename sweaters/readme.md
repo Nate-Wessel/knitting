@@ -17,6 +17,6 @@ swatched k1p1 rib 30st at 5" (stretched)
 * Worked five rows in k1p1 rib, then put in a lifeline
 * With the cast on start at center back, I marked the CF (opposite) and shoulder lines at 24st from CB.
 
-![neckline, marked](neckline.jpg)
+![neckline, marked](neckband.jpg)
 
 
