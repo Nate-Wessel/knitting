@@ -30,4 +30,24 @@ swatched k1p1 rib 30st at 5" (stretched)
 
 I am now aiming for the front and back panels to be equally wide at 98st = ~19.5". The sleeves aiming for 80st each for ~15.8" circumference
 
-* At this point I did a haphazard series of increases and skipped increases to meet these goals that I probably should have set myself earlier. Once I get there I will try it on again and hopefully be ready to start separating the sleeves and body
+* At this point I did a haphazard series of increases and skipped increases to meet these goals that I probably should have set myself earlier. Once I get there I will try it on again and hopefully be ready to start separating the sleeves and body. 
+
+## Splitting the sleeves from the body
+
+Once the right length is reached, put the sleeve stitches on some waste yarn and set them aside for later. The division between sleeve and body is between the two knit stitches running along between the paired increases. 
+
+...
+
+...
+
+## Body
+
+Once you've reached the underarm, separate the sleeves from the body and cast on 10st at the underarm on each side of the body. At theis point, the body will have XXXst in the round; just keep working it straight down until it's at the desired length ... TODO and add ribbing at the bottom. 
+
+![sweater body has been started, sleeves held for later](body-started.jpg)
+The image above shows the sweater's progress after three full hanks. 
+
+
+## Sleeves
+
+Pick up the sleeves following the instructions [here](https://www.youtube.com/watch?v=euTp37dlhlM) and work a few rows before beginning any decreases. At this point, I have XXXst around my sleeve arm and am working it in magic loop.
