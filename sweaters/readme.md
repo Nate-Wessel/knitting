@@ -34,11 +34,7 @@ I am now aiming for the front and back panels to be equally wide at 98st = ~19.5
 
 ## Splitting the sleeves from the body
 
-Once the right length is reached, put the sleeve stitches on some waste yarn and set them aside for later. The division between sleeve and body is between the two knit stitches running along between the paired increases. 
-
-...
-
-...
+Once the right length is reached, put the sleeve stitches on some waste yarn and set them aside for later. The division between sleeve and body is between the two knit stitches running along between the paired increases.
 
 ## Body
 
@@ -50,4 +46,6 @@ The image above shows the sweater's progress after three full hanks.
 
 ## Sleeves
 
-Pick up the sleeves following the instructions [here](https://www.youtube.com/watch?v=euTp37dlhlM) and work a few rows before beginning any decreases. At this point, I have XXXst around my sleeve arm and am working it in magic loop.
+Pick up the sleeves following the instructions [here](https://www.youtube.com/watch?v=euTp37dlhlM) and work a few rows before beginning any decreases. I am working the sleeve in magic loop and have started decreasing the sleeves on the undersides in paired and then single decreases. I'm eyeballing this and don't yet have an end goal for the sleeve length / wrist circumference. 
+
+... TODO keep decreasing and add ribbing at the wrist.
