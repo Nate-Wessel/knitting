@@ -48,5 +48,5 @@ The image above shows the sweater's progress after three full hanks.
 
 Pick up the sleeves following the instructions [here](https://www.youtube.com/watch?v=euTp37dlhlM). Add stitch markers between the regular and picked-up stitches. Work a few rows plain, then start paired decreases to cut down the added underarm stitches quickly. Paired decrease, then two rounds plain, and keep reducing like this until the added stitches are gone and the two markers are one. Now keep working the decreases one at a time on either side of the one marker, decrease, then two rows, decrease, then two rows, alternating sides. 
 
-I ended the decreases with 10g of yarn left on the ball used for the sleeve, and 46s around the wrist. I then started a 1/1 rib tightly on smaller needles and continued that for about 3" before casting off loosely. 
+I ended the decreases with 10g of yarn left on the ball used for the sleeve, and 46s around the wrist. I then started a 1/1 rib tightly on smaller needles and continued that for about 3" before casting off with a [tubular bind off](https://www.youtube.com/watch?v=0jPMLIE7ac8). 
 
