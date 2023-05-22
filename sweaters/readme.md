@@ -1,23 +1,23 @@
 # Sweaters
 
-## the plan so far
+## Overview
+This is meant to be my block pattern - a basic crewneck top-down raglan in worsted yarn. It should fit me well and form the basis for other designs later on.
 
-top down raglan in worsted wool (purple!). I have six hanks and pray it's enough. 
+## Swatching
+* sweater one
+	- swatched stockinette at 29 st = 5 3/4 in = 5.04st/in
+	- swatched k1p1 rib 30st at 5" (stretched) ...assuming the neckband will relax under some tension
+* sweater two
+	- 
 
-
-## swatches
-swatched stockinette at 29 st = 5 3/4 in = 5.04st/in
-
-swatched k1p1 rib 30st at 5" (stretched)
-...assuming the neckband will relax under some tension
-
-## the action so far
-
-* For a 20" neckline, I cast on 120st joined in the round.
+## Neckband
+* For a 20" neckline, I cast on (long tail) 120st joined in the round
 * Worked five rows in k1p1 rib, then put in a lifeline
 * With the first stitch at center back, I marked the CF (opposite) and shoulder lines at 24st from CB.
 ![neckline, marked](neckband.jpg)
 * Raglan lines then are marked around the top sleeve at 18st and 34st from CB.
+
+## Neck shaping + raglan increases
 * start german short rows with the first set going to 10st from the CB, increasing 10st each row until reaching near the front
 * after short rows, begin increases around the sleeve markers
     * raglan increases will be worked as a pair with two knits between M1R,K,K,M1L 
@@ -31,6 +31,7 @@ swatched k1p1 rib 30st at 5" (stretched)
 I am now aiming for the front and back panels to be equally wide at 98st = ~19.5". The sleeves aiming for 80st each for ~15.8" circumference
 
 * At this point I did a haphazard series of increases and skipped increases to meet these goals that I probably should have set myself earlier. Once I get there I will try it on again and hopefully be ready to start separating the sleeves and body. 
+
 
 ## Splitting the sleeves from the body
 
