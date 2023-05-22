@@ -11,7 +11,8 @@ This is meant to be my block pattern - a basic crewneck top-down raglan in worst
 	- 
 
 ## Neckband
-* For a 20" neckline, I cast on (long tail) 120st joined in the round
+* Having learned from the neck of the first sweater, I cast on (long tail) 100st joined in the round, vs 120 for the first. I think this yarn will be a little bulkier, and I also want the neck to end up a lot narrower.
+
 * Worked five rows in k1p1 rib, then put in a lifeline
 * With the first stitch at center back, I marked the CF (opposite) and shoulder lines at 24st from CB.
 ![neckline, marked](neckband.jpg)
