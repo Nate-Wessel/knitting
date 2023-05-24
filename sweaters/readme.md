@@ -11,9 +11,8 @@ This is meant to be my block pattern - a basic crewneck top-down raglan in worst
 	- 
 
 ## Neckband
-* Having learned from the neck of the first sweater, I cast on (long tail) 100st joined in the round, vs 120 for the first. I think this yarn will be a little bulkier, and I also want the neck to end up a lot narrower.
+* Having learned from the neck of the first sweater, I cast on (long tail) 100st joined in the round, vs 120 for the first; using the 3mm needles. I think this yarn will be a little bulkier, and I also want the neck to end up a lot narrower. To this end, the for the second sweater was worked to about 18-20 rows, folded that double, and knit it into a folded neckband more or less following the instructions [here](https://www.youtube.com/watch?v=RYyvunQzRNg). 
 
-* Worked five rows in k1p1 rib, then put in a lifeline
 * With the first stitch at center back, I marked the CF (opposite) and shoulder lines at 24st from CB.
 ![neckline, marked](neckband.jpg)
 * Raglan lines then are marked around the top sleeve at 18st and 34st from CB.
