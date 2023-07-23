@@ -8,7 +8,7 @@ This is meant to be my block pattern - a basic crewneck top-down raglan in worst
 	- swatched stockinette at 29 st = 5 3/4 in = 5.04st/in
 	- swatched k1p1 rib 30st at 5" (stretched) ...assuming the neckband will relax under some tension
 * sweater two
-	- 
+	- roughly the same but I chose to not measure and just wing it :0
 
 ## Neckband
 * Having learned from the neck of the first sweater, I cast on (long tail) 100st joined in the round, vs 120 for the first; using the 3mm needles. I think this yarn will be a little bulkier, and I also want the neck to end up a lot narrower. To this end, the for the second sweater was worked to about 18-20 rows, folded that double, and knit it into a folded neckband more or less following the instructions [here](https://www.youtube.com/watch?v=RYyvunQzRNg).
@@ -44,7 +44,7 @@ Once the right length is reached, put the sleeve stitches on some waste yarn and
 
 ## Body
 
-Once you've reached the underarm, separate the sleeves from the body and cast on 10st at the underarm on each side of the body. At theis point, the body will have XXXst in the round; just keep working it straight down until it's at the desired length ... TODO and add ribbing at the bottom. 
+Once you've reached the underarm, [separate the sleeves from the body and cast on 10st at the underarm](https://www.youtube.com/watch?v=cmaIYuHHlt8) on each side of the body. At theis point, the body will have XXXst in the round; just keep working it straight down until it's at the desired length... and of course add 1x1 ribbing at the bottom, casting off [tubularly](https://www.youtube.com/watch?v=0jPMLIE7ac8).
 
 ![sweater body has been started, sleeves held for later](body-started.jpg)
 The image above shows the sweater's progress after three full hanks. 
