@@ -1,23 +1,28 @@
 # Sweaters
 
-## the plan so far
+## Overview
+This is meant to be my block pattern - a basic crewneck top-down raglan in worsted yarn. It should fit me well and form the basis for other designs later on.
 
-top down raglan in worsted wool (purple!). I have six hanks and pray it's enough. 
+## Swatching
+* sweater one
+	- swatched stockinette at 29 st = 5 3/4 in = 5.04st/in
+	- swatched k1p1 rib 30st at 5" (stretched) ...assuming the neckband will relax under some tension
+* sweater two
+	- roughly the same but I chose to not measure and just wing it :0
 
+## Neckband
+* Having learned from the neck of the first sweater, I cast on (long tail) 100st joined in the round, vs 120 for the first; using the 3mm needles. I think this yarn will be a little bulkier, and I also want the neck to end up a lot narrower. To this end, the for the second sweater was worked to about 18-20 rows, folded that double, and knit it into a folded neckband more or less following the instructions [here](https://www.youtube.com/watch?v=RYyvunQzRNg).
 
-## swatches
-swatched stockinette at 29 st = 5 3/4 in = 5.04st/in
+From here on out you'll be working on the larger 4mm needles, so the next stitches will be transitioning onto those. 
 
-swatched k1p1 rib 30st at 5" (stretched)
-...assuming the neckband will relax under some tension
+### Mark the raglan increase lines
+With the magic loop ends at CF and CB, I marked the four increase points at
+* back: 15st from CB
+* front: 30st from CB (15st forward from the back mrkers)
 
-## the action so far
+This leaves a longer front collar, for it to dip down as the neck shaping is down in the next steps. 
 
-* For a 20" neckline, I cast on 120st joined in the round.
-* Worked five rows in k1p1 rib, then put in a lifeline
-* With the first stitch at center back, I marked the CF (opposite) and shoulder lines at 24st from CB.
-![neckline, marked](neckband.jpg)
-* Raglan lines then are marked around the top sleeve at 18st and 34st from CB.
+## Neck shaping + raglan increases
 * start german short rows with the first set going to 10st from the CB, increasing 10st each row until reaching near the front
 * after short rows, begin increases around the sleeve markers
     * raglan increases will be worked as a pair with two knits between M1R,K,K,M1L 
@@ -32,13 +37,14 @@ I am now aiming for the front and back panels to be equally wide at 98st = ~19.5
 
 * At this point I did a haphazard series of increases and skipped increases to meet these goals that I probably should have set myself earlier. Once I get there I will try it on again and hopefully be ready to start separating the sleeves and body. 
 
+
 ## Splitting the sleeves from the body
 
 Once the right length is reached, put the sleeve stitches on some waste yarn and set them aside for later. The division between sleeve and body is between the two knit stitches running along between the paired increases.
 
 ## Body
 
-Once you've reached the underarm, separate the sleeves from the body and cast on 10st at the underarm on each side of the body. At theis point, the body will have XXXst in the round; just keep working it straight down until it's at the desired length ... TODO and add ribbing at the bottom. 
+Once you've reached the underarm, [separate the sleeves from the body and cast on 10st at the underarm](https://www.youtube.com/watch?v=cmaIYuHHlt8) on each side of the body. At theis point, the body will have XXXst in the round; just keep working it straight down until it's at the desired length... and of course add 1x1 ribbing at the bottom, casting off [tubularly](https://www.youtube.com/watch?v=0jPMLIE7ac8).
 
 ![sweater body has been started, sleeves held for later](body-started.jpg)
 The image above shows the sweater's progress after three full hanks. 
