@@ -8,6 +8,6 @@ Once the bottom of the thumb is reached, divide off the portion of the round tha
 
 ![first draft of glove with thumb finished](./glove1.jpg)
 
-Next, pick up the rest of the stitches from the waste yarn (get those cast on stitches similar to a [sweater underarm](https://www.youtube.com/watch?v=cmaIYuHHlt8)) and work the main body for another couple of cm until the base of the pinky is reached.
+Next, pick up the rest of the stitches from the waste yarn (get those cast on stitches similar to a [sweater underarm](https://www.youtube.com/watch?v=euTp37dlhlM)) and work the main body for another couple of cm until the base of the pinky is reached.
 
 Repeat the finger process for the pinky and then knit the main body up a few rows. The middle three fingers can all be added at the same level.
