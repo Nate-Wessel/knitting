@@ -9,9 +9,16 @@ This is meant to be my block pattern - a basic crewneck top-down raglan in worst
 	- swatched k1p1 rib 30st at 5" (stretched) ...assuming the neckband will relax under some tension
 * sweater two
 	- roughly the same but I chose to not measure and just wing it :0
+* sweater three
+	- ...
+
+## Supplies
+DK weight yarn and 4mm circular needles
 
 ## Neckband
-* Having learned from the neck of the first sweater, I cast on (long tail) 100st joined in the round, vs 120 for the first; using the 3mm needles. I think this yarn will be a little bulkier, and I also want the neck to end up a lot narrower. To this end, the for the second sweater was worked to about 18-20 rows, folded that double, and knit it into a folded neckband more or less following the instructions [here](https://www.youtube.com/watch?v=RYyvunQzRNg).
+* Cast on (long tail) 100st joined in the round using the 4mm needles held double. Start working around in a 1-1 rib. The neckback will be folded double and knit down, so keep going until about twice the desired width of the finished neckband, maybe ~ 20-30 rows. Fold over and knit it closed following the instructions [here](https://www.youtube.com/watch?v=RYyvunQzRNg).
+
+Put in a lifeline here! The neckline shaping in the next step could end up not working and it will be hard to get back to this point without overshooting. 
 
 From here on out you'll be working on the larger 4mm needles, so the next stitches will be transitioning onto those. 
 
