@@ -20,8 +20,6 @@ DK weight yarn and 4mm circular needles
 
 Put in a lifeline here! The neckline shaping in the next step could end up not working and it will be hard to get back to this point without overshooting. 
 
-From here on out you'll be working on the larger 4mm needles, so the next stitches will be transitioning onto those. 
-
 ### Mark the raglan increase lines
 With the magic loop ends at CF and CB, I marked the four increase points at
 * back: 15st from CB
