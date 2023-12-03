@@ -18,9 +18,9 @@ From here on out you'll be working on the larger 4mm needles, so the next stitch
 ### Mark the raglan increase lines
 With the magic loop ends at CF and CB, I marked the four increase points at
 * back: 15st from CB
-* front: 30st from CB (15st forward from the back mrkers)
+* front: 30st from CB (15st forward from the back markers)
 
-This leaves a longer front collar, for it to dip down as the neck shaping is down in the next steps. 
+This leaves a longer front collar, for it to dip down as the neck shaping is done in the next steps. 
 
 ## Neck shaping + raglan increases
 * start german short rows with the first set going to 10st from the CB, increasing 10st each row until reaching near the front
