@@ -28,11 +28,16 @@ With the magic loop ends at CF and CB, I marked the four increase points at
 This leaves a longer front collar, for it to dip down as the neck shaping is done in the next steps. 
 
 ## Neck shaping + raglan increases
-* start german short rows with the first set going to 10st from the CB, increasing 10st each row until reaching near the front
-* after short rows, begin increases around the sleeve markers
-    * raglan increases will be worked as a pair with two knits between M1R,K,K,M1L 
-        * the marker between the K,K
-    * after a row with increases, a row of only knits
+
+Start german short rows from the CB with the first set going to 10st from the CB
+
+Keep going back and forth, adding the raglan increases at the sleeve line markers on the knot (not purl) phase of the short-rows.
+* raglan increases will be worked as a pair with two knits between M1R,K,K,M1L 
+	* the marker between the K,K
+	* after a row with increases, a row of only knits
+
+After the first set of short-rows (at 10st from CB), add them at 3st increments until the front raglan sleeve marker is reached, then avery 2st. 
+
 * put in a lifeline after doing this for 22 rows
 * stopped increasing the front and back panels at this point while still increasing the sleeves at the same rate
 	* did this for 19 more rows, then decided I hadn't done enough short-row shaping and tossed in another pair of short-rows around the back and sleeves
