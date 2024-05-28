@@ -1,13 +1,25 @@
 # Gloves
 
-Knitted from wrist toward fingers in worsted weight wool on 3mm needles.
+Knitted from wrist toward fingers in fingering weight on 2.5mm needles.
 
-Cast on 60 in the round and work a 1-1 rib for the wristband. Transition to stockinette and begin slow increases on the thumb side, doing one increase for every 2-3 rows. Try the glove on as you go, making sure you know where the wristband should sit. 
+Cast on (long tail) 72st in the round and work a 1-1 rib for the wristband. This will be doubled up, so go to twice the desired length, then fold over and start picking up stitches from the cast on edge until the whole bottom is attached to the working edge.
 
-Once the bottom of the thumb is reached, divide off the portion of the round that should go toward/around that finger and place the _rest_ of the round on a spare yarn. Start knitting the thumb by [casting on 3-5 new stitches](https://www.youtube.com/watch?v=cmaIYuHHlt8) and then working in the round. Again, keep trying it on to assess length. Once nearing the tip, reduce to ~8-10 stitches and cinch them together with the yarn end. 
+Transition to stockinette and begin increasing on the thumb side, doing one increase every other row. Try the glove on as you go, making sure you know where the wristband should sit. 
 
-![first draft of glove with thumb finished](./glove1.jpg)
+Once the bottom of the thumb is reached, divide off the portion of the round that should go around that finger and place on a spare yarn. [Cast on ~5 new stitches](https://www.youtube.com/watch?v=cmaIYuHHlt8) and keep working the palm until reaching the base of the pinky. Repeat, tying off the pinky and contiuing up the palm. A few more rows and you'll be at the base of the remaining three fingers. We'll want to keep going up the middle finger, tying off the other two at the same level. 
 
-Next, pick up the rest of the stitches from the waste yarn (get those cast on stitches similar to a [sweater underarm](https://www.youtube.com/watch?v=euTp37dlhlM)) and work the main body for another couple of cm until the base of the pinky is reached.
+## Fingers
+
+Hopefully the finger diameter starts around the right size, but you may want to do a decrease or two near the base to make sure the fit isn't too loose. A decrease near the first knuckle may or may not be called for as well. Keep an even number of stitches on each needle.
+
+At some point, ensure that your needles are rotated in the finger such that they are perpendicular to the bend of the joints (perpendicular to the plane defined by a bending joint?). The closing graft stitch should line up witht he fingernail.
+
+Again, keep trying it on to assess length. Once nearing the tip, start reducing aggressively. One st away from the end of the needle, do a L/R decrease as the case may be on each needle, each round. Alternate sides the decrease is on. 
+
+Once ~6 stitches remain on each needle, cut the yarn and close the finger with a graft stitch. 
+
+
+## Picking up fingers
+For whichever finger you want to finish next, pick up the stitches from the waste yarn (get those cast on stitches same as a [sweater underarm](https://www.youtube.com/watch?v=euTp37dlhlM)) and repeat the same process as for the middle finger
 
 Repeat the finger process for the pinky and then knit the main body up a few rows. The middle three fingers can all be added at the same level.
