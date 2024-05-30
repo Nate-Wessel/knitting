@@ -12,14 +12,15 @@ Once the bottom of the thumb is reached, divide off the portion of the round tha
 
 Hopefully the finger diameter starts around the right size, but you may want to do a decrease or two near the base to make sure the fit isn't too loose. A decrease near the first knuckle may or may not be called for as well. Keep an even number of stitches on each needle.
 
-At some point, ensure that your needles are rotated in the finger such that they are perpendicular to the bend of the joints (perpendicular to the plane defined by a bending joint?). The closing graft stitch should line up witht he fingernail.
+At some point, ensure that your needles are rotated in the finger such that they are perpendicular to the bend of the joints (perpendicular to the plane defined by a bending joint?). The closing graft stitch should line up with the fingernail.
 
-Again, keep trying it on to assess length. Once nearing the tip, start reducing aggressively. One st away from the end of the needle, do a L/R decrease as the case may be on each needle, each round. Alternate sides the decrease is on. 
+Again, keep trying it on to assess length. Once nearing the tip, start reducing aggressively. One st away from the end of the needle, do a L/R decrease as the case may be on each needle, each round. Alternate sides the decrease is on.
 
-Once ~6 stitches remain on each needle, cut the yarn and close the finger with a graft stitch. 
+i.e. on round one, decrease 1 st from the end of the needle, on both sides.
+On the next round, decrease 1 st from the start of the needle, on both sides. 
+
+Once ~6 stitches remain on each needle, cut the yarn and close the finger with a graft stitch.
 
 
 ## Picking up fingers
 For whichever finger you want to finish next, pick up the stitches from the waste yarn (get those cast on stitches same as a [sweater underarm](https://www.youtube.com/watch?v=euTp37dlhlM)) and repeat the same process as for the middle finger
-
-Repeat the finger process for the pinky and then knit the main body up a few rows. The middle three fingers can all be added at the same level.
