@@ -9,11 +9,16 @@ This is meant to be my block pattern - a basic crewneck top-down raglan in worst
 	- swatched k1p1 rib 30st at 5" (stretched) ...assuming the neckband will relax under some tension
 * sweater two
 	- roughly the same but I chose to not measure and just wing it :0
+* sweater three
+	- ...
+
+## Supplies
+DK weight yarn and 4mm circular needles
 
 ## Neckband
-* Having learned from the neck of the first sweater, I cast on (long tail) 100st joined in the round, vs 120 for the first; using the 3mm needles. I think this yarn will be a little bulkier, and I also want the neck to end up a lot narrower. To this end, the for the second sweater was worked to about 18-20 rows, folded that double, and knit it into a folded neckband more or less following the instructions [here](https://www.youtube.com/watch?v=RYyvunQzRNg).
+* Cast on (long tail) 100st joined in the round using the 4mm needles held double. Start working around in a 1-1 rib. The neckback will be folded double and knit down, so keep going until about twice the desired width of the finished neckband, maybe ~ 20-30 rows. Fold over and knit it closed following the instructions [here](https://www.youtube.com/watch?v=RYyvunQzRNg).
 
-From here on out you'll be working on the larger 4mm needles, so the next stitches will be transitioning onto those. 
+Put in a lifeline here! The neckline shaping in the next step could end up not working and it will be hard to get back to this point without overshooting. 
 
 ### Mark the raglan increase lines
 With the magic loop ends at CF and CB, I marked the four increase points at
@@ -23,11 +28,16 @@ With the magic loop ends at CF and CB, I marked the four increase points at
 This leaves a longer front collar, for it to dip down as the neck shaping is done in the next steps. 
 
 ## Neck shaping + raglan increases
-* start german short rows with the first set going to 10st from the CB, increasing 10st each row until reaching near the front
-* after short rows, begin increases around the sleeve markers
-    * raglan increases will be worked as a pair with two knits between M1R,K,K,M1L 
-        * the marker between the K,K
-    * after a row with increases, a row of only knits
+
+Start german short rows from the CB with the first set going to 10st from the CB
+
+Keep going back and forth, adding the raglan increases at the sleeve line markers on the knot (not purl) phase of the short-rows.
+* raglan increases will be worked as a pair with two knits between M1R,K,K,M1L 
+	* the marker between the K,K
+	* after a row with increases, a row of only knits
+
+After the first set of short-rows (at 10st from CB), add them at 3st increments until the front raglan sleeve marker is reached, then avery 2st. 
+
 * put in a lifeline after doing this for 22 rows
 * stopped increasing the front and back panels at this point while still increasing the sleeves at the same rate
 	* did this for 19 more rows, then decided I hadn't done enough short-row shaping and tossed in another pair of short-rows around the back and sleeves
