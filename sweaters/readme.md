@@ -46,7 +46,7 @@ Once the right length is reached, put the sleeve stitches on some waste yarn and
 
 Once you've reached the underarm, [separate the sleeves from the body and cast on 10st at the underarm](https://www.youtube.com/watch?v=cmaIYuHHlt8) on each side of the body. At theis point, the body will have XXXst in the round; just keep working it straight down until it's at the desired length... and of course add 1x1 ribbing at the bottom, casting off [tubularly](https://www.youtube.com/watch?v=0jPMLIE7ac8).
 
-![sweater body has been started, sleeves held for later](body-started.jpg)
+![sweater body has been started, sleeves held for later](./iterations/1-purple/body-started.jpg)
 The image above shows the sweater's progress after three full hanks. 
 
 
