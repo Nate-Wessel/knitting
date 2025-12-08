@@ -15,3 +15,10 @@ Continue knitting around on the right side now, doing the increases (M1R, M1L) o
 
 From here, continue knitting around, but stop increasing the front panels; only increase the sleeve panels. Do this until...
 
+
+# Notes on blocking
+
+I measured 100 rows before blocking at 28.5cm.
+
+After blocking: ???
+
