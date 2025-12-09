@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1"
-     inkscape:cx="200.5"
-     inkscape:cy="599"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="636.3961"
+     inkscape:cy="640.63874"
      inkscape:window-width="1831"
      inkscape:window-height="1056"
      inkscape:window-x="89"
@@ -45,16 +45,23 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#d9d2b1;fill-opacity:1;stroke:none;stroke-width:0.751629"
+       id="rect34199"
+       width="608.534"
+       height="13.229177"
+       x="-1.3229001"
+       y="103.1875" />
     <text
        xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:charter;-inkscape-font-specification:charter;stroke-width:0.264583"
-       x="14.345903"
-       y="115.76318"
+       style="font-size:12.5712px;line-height:1.25;font-family:charter;-inkscape-font-specification:charter;fill:#366083;fill-opacity:1;stroke-width:0.314282"
+       x="1.3012029"
+       y="117.71748"
        id="text3986"><tspan
          sodipodi:role="line"
          id="tspan3984"
-         style="stroke-width:0.264583"
-         x="14.345903"
-         y="115.76318">If found, please return to</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'S-Ness Serif 8x8';-inkscape-font-specification:'S-Ness Serif 8x8';fill:#366083;fill-opacity:1;stroke-width:0.314282"
+         x="1.3012029"
+         y="117.71748">If found, please return </tspan></text>
   </g>
 </svg>
