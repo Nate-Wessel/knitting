@@ -4,9 +4,10 @@ Top down raglan with more ease than past patterns
 
 ## Gauge
 
-I measured 100 rows after blocking at 28.5cm.
+After blocking:
 
-100 st 39cm 
+* 100 rows: 28.5cm.
+* 100 stitches: 39cm 
 
 * st / row = 0.7307692
 * row / st = 1.368421
