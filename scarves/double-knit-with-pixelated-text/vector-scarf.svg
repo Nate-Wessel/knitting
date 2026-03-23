@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="vector.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="636.3961"
+     inkscape:cy="640.63874"
+     inkscape:window-width="1831"
+     inkscape:window-height="1056"
+     inkscape:window-x="89"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid14340"
+       units="mm"
+       dotted="false"
+       spacingx="0.26458" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#d9d2b1;fill-opacity:1;stroke:none;stroke-width:0.751629"
+       id="rect34199"
+       width="608.534"
+       height="13.229177"
+       x="-1.3229001"
+       y="103.1875" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.5712px;line-height:1.25;font-family:charter;-inkscape-font-specification:charter;fill:#366083;fill-opacity:1;stroke-width:0.314282"
+       x="1.3012029"
+       y="117.71748"
+       id="text3986"><tspan
+         sodipodi:role="line"
+         id="tspan3984"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'S-Ness Serif 8x8';-inkscape-font-specification:'S-Ness Serif 8x8';fill:#366083;fill-opacity:1;stroke-width:0.314282"
+         x="1.3012029"
+         y="117.71748">If found, please return </tspan></text>
+  </g>
+</svg>
