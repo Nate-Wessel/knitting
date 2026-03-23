@@ -12,4 +12,4 @@ The pattern follows the file vector-scarf.svg which has gridline aligned to the 
 
 Because, and I didn't quite realize this originally, rows are shorter than stitches are wide, the font came out a bit... horizontally abbreviated, but it ultimately looked pretty good and had the length I wanted.
 
-Yarn was from Briggs and Little. I should have grabbed a photo ofd the tag... It was roughly a worsted weight. I also neglected to record the needle size. 
+Yarn was from Briggs and Little. I should have grabbed a photo of the tag... It was roughly a worsted weight. I used four skeins, two of each colour. I also neglected to record the needle size. 
