@@ -1,8 +1,22 @@
 # Variegated DK sweater on smaller needles
 
-**This is my current project**
+Top down raglan with more ease than past patterns
+
+## Gauge
+
+I measured 100 rows after blocking at 28.5cm.
+
+100 st 39cm 
+
+* st / row = 0.7307692
+* row / st = 1.368421
 
 3.5mm needles
+
+![yarn label front](./yarn1.jpg)
+![yarn label back](./yarn2.jpg)
+
+## Pattern
 
 Cast on 120st, long tail cast on. Work ~26 rows in 1/1 ribbing before folding over and picking up the cast-on edge to double-up the neckband.
 
@@ -16,9 +30,5 @@ Continue knitting around on the right side now, doing the increases (M1R, M1L) o
 From here, continue knitting around, but stop increasing the front panels; only increase the sleeve panels. Do this until...
 
 
-# Notes on blocking
 
-I measured 100 rows before blocking at 28.5cm.
-
-After blocking: ???
 
