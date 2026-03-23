@@ -4,7 +4,7 @@ This was meant to be a pretty easy introduction to double knitting, but with lot
 
 The text is "If found, please return to "... and then a needlessly long full name and address. The final scarf was probably close to 9 feet. 
 
-Here's is an image of the completed scarve with the happy recipient's face redacted for privacy.
+Here's is an image of the completed scarf with the happy recipient's face redacted for privacy.
 
 ![a wearer of scarves](./happy-customer.jpeg)
 
@@ -12,4 +12,4 @@ The pattern follows the file vector-scarf.svg which has gridline aligned to the 
 
 Because, and I didn't quite realize this originally, rows are shorter than stitches are wide, the font came out a bit... horizontally abbreviated, but it ultimately looked pretty good and had the length I wanted.
 
-Yarn was from Briggs and Little. I should have grabbed a photo ofd the tag... It was roughly a worsted weight. 
+Yarn was from Briggs and Little. I should have grabbed a photo ofd the tag... It was roughly a worsted weight. I also neglected to record the needle size. 
