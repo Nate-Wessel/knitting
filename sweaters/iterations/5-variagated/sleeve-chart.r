@@ -13,7 +13,7 @@ sleeveCmFromUnderarm = 55 # cm
 cuffRows = 20 # no decreases here
 
 stFromUnderarm = ceiling(
-  sleeveLengthFromUnderarm / (cm_per_100_rows / 100)
+  sleeveCmFromUnderarm / (cm_per_100_rows / 100)
 )
 # sleeve row counts where the decrease rate changes
 pivotPoints = tibble(
@@ -45,7 +45,7 @@ rows %>%
   geom_step(aes(y=-stRight)) +
   geom_step(aes(y=stLeft)) +
   geom_vline(data=pivotPoints, aes(xintercept=rowStart), colour='pink' ) +
-  geom_vline( aes(xintercept=33), colour='orange') +
+  geom_vline( aes(xintercept=101), colour='orange') + # current row highlight
   xlab('Rows') +
   ylab('Stitches') +
   coord_fixed( ratio = cm_per_100_st / cm_per_100_rows ) +
@@ -64,3 +64,5 @@ rows %>%
     st_at_wrist = min(st),
     cm_at_wrist = min(st) * cm_per_100_st / 100
   )
+
+rows %>% print(n=200)
